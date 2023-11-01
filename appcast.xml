@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
-            <enclosure url="https://raw.githubusercontent.com/AreroKetahi/UpdateExperiment/main/UpdateTestApp_1.zip" length="909176" type="application/octet-stream" sparkle:edSignature="8/mePE70gJjeM0jJ0nqD8k0QlZWAaltrLr6Nk2Pi/drtGJEvadjYZYZ4HtMwkmT9JNlef7kqTzVvdqcnuRp/Bw=="/>
+            <enclosure url="https://github.com/AreroKetahi/UpdateExperiment/releases/download/1/UpdateTestApp_1.zip" length="909176" type="application/octet-stream" sparkle:edSignature="8/mePE70gJjeM0jJ0nqD8k0QlZWAaltrLr6Nk2Pi/drtGJEvadjYZYZ4HtMwkmT9JNlef7kqTzVvdqcnuRp/Bw=="/>
         </item>
     </channel>
 </rss>
